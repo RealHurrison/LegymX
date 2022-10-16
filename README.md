@@ -5,7 +5,7 @@
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+*** Thanks again! go create something AMAZING! :D
 -->
 
 
@@ -23,7 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -38,16 +37,15 @@
 
   <p align="center">
     <strong>The README is developing.</strong>
-    An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RealHurrison/LegymX"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/RealHurrison/LegymX">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/RealHurrison/LegymX/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/RealHurrison/LegymX/issues">Request Feature</a>
   </p>
 </div>
 
@@ -240,15 +238,15 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/RealHurrison/LegymX.svg?style=for-the-badge
 [contributors-url]: https://github.com/RealHurrison/LegymX/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/RealHurrison/LegymX.svg?style=for-the-badge
 [forks-url]: https://github.com/RealHurrison/LegymX/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/RealHurrison/LegymX.svg?style=for-the-badge
 [stars-url]: https://github.com/RealHurrison/LegymX/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/RealHurrison/LegymX.svg?style=for-the-badge
 [issues-url]: https://github.com/RealHurrison/LegymX/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/RealHurrison/LegymX.svg?style=for-the-badge
 [license-url]: https://github.com/RealHurrison/LegymX/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
